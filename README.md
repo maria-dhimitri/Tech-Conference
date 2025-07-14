@@ -1,11 +1,10 @@
 # Tech-Conference
-This is a project I built entirely using Bootstrap, creating a fully responsive and modern website for a tech conference.I personally developed every section — from the clean and welcoming Home Page to the detailed Schedule, the inspiring Speakers lineup, and the smooth Registration form. I made sure the site looks great and works perfectly on all devices by leveraging Bootstrap’s grid system and components.
+This is a project I built from scratch using Bootstrap and JavaScript to create a fully responsive, interactive, and modern website for a tech conference.I personally developed every part — from the sleek Home Page and dynamic Speakers section to the detailed Schedule, user-friendly Registration form, and easy-to-use Contact page. Using Bootstrap’s grid and components alongside JavaScript, I added interactive features that enhance the user experience across all devices.
 
-Features I implemented include:
--Responsive layout with Bootstrap’s powerful utilities
--Intuitive navigation and clear content structure
--Stylish sections for Speakers, Schedule, About, Registration, and Contact
--User-friendly registration form for easy sign-up
--Consistent design and accessibility best practices
+Key features I implemented:
+-Responsive design with Bootstrap for seamless layout on any screen
+-Interactive elements powered by JavaScript for smooth navigation and form validation
+-Organized content sections: Speakers, Schedule, About, Registration, Contact
+-A clean, consistent, and accessible design
 
-This project showcases my ability to build professional websites quickly and efficiently using Bootstrap, while focusing on user experience and clean design.
+This project reflects my hands-on skills in combining Bootstrap’s design framework with JavaScript’s interactivity to deliver a professional, user-focused web experience.
